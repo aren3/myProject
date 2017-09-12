@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.taydo.dailynews" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Daily News</name>
+<widget id="com.news.ph" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Mobile News</name>
   <description>
-        Mobile Application for Wordpress News Website – Daily News
+        Mobile News – wordpress API News
     </description>
-  <author email="mobile@taydotech.com" href="http://taydotech.com/">
+  <author email="" href="">
       TaydoTech
     </author>
   <content src="index.html"/>
